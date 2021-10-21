@@ -1,4 +1,4 @@
-# Nidhay's Red Velvet Cake Receipe
+# Nidhay’s Receipe for the Cake
 
 [Ingredients](ingredients.md)
 
