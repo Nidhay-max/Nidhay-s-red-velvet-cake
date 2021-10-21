@@ -1,1 +1,5 @@
-# Nidhay-s-red-velvet-cake
+# Nidhay's Red Velvet Cake Receipe
+
+[Ingredients](ingredients.md)
+
+[Receipe](recipe.md)
